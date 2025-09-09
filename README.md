@@ -8,22 +8,6 @@ A full-stack **digital agency website** built with:
 
 Includes a dynamic **consultation form** with an **admin dashboard** (view, delete, export to CSV) and **secure login**.
 
----
-
-## 📂 Project Structure
-
-```
-agency-fixed/
-│── Frontend/         # Static website (HTML, CSS, JS, Tailwind)
-│    └── index.html
-│── Backend/          # Node.js + Express server
-│    └── server.js
-│── package.json
-│── README.md
-```
-
----
-
 ## ⚡ Features
 
 ✅ Consultation form with validation  
