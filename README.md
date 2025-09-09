@@ -86,17 +86,6 @@ node server.js
 2. Start **Backend** → `node server.js`  
 3. Open **Frontend** → `Frontend/index.html`  
 4. Access **Admin** → [http://localhost:5000/admin/login](http://localhost:5000/admin/login)  
-
----
-
-## 🛡️ Security Notes
-
-- Default admin credentials are hardcoded — replace with environment variables or database users in production.  
-- Use `dotenv` for managing secrets.  
-- Enable CORS only for trusted domains when deploying.  
-
----
-
 ## 📄 License
 
 MIT License – free to use and modify.
